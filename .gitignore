@@ -2,8 +2,8 @@ HELP.md
 .classpath
 .factorypath
 .project
-mnvw
-mnvw.cmd
+mvnw
+mvnw.cmd
 .mvn/
 .settings/
 .vscode/ 
